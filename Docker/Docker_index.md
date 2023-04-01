@@ -1,4 +1,4 @@
-#index  
+# index  
 
 [What is docker?](What%20is%20docker?.md)
 
@@ -22,4 +22,4 @@
 
 [Useful Docker Commands](Useful%20Docker%20Commands.md)
 
-See Container Orchestration in [Kubernets](obsidian:/Obsidian/Kubernets/Kubernets_index)
+See Container Orchestration in [Kubernets](Kubernets/Kubernets_index)
