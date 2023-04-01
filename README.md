@@ -1,9 +1,9 @@
 This is an incomplete knowladge base containg my notes and refrences for technologies used for Dkube
 
 # TOC
-1.[Docker_index](Docker)
+1.[Docker](Docker)
 
-2.[K8s_index](Kubernets/kubernetes)
+2.[K8s](Kubernets/kubernetes)
 
 3.[Robot Framework](ROBOT_framework)
 
