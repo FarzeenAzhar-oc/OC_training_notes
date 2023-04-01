@@ -1,0 +1,2 @@
+- quickly concat two list, arrays or objects
+- `C = [...A,...B]`, if there is overlaping entries in A and B, B is given preference

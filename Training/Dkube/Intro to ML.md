@@ -1,0 +1,4 @@
+- AI -> ML -> DL
+- ML tasks can br divided into predictive(Supervised) and descriptive(Unsuprevised)
+- predictive to regression , classification and reinforcment
+- Desriptive: Density Estimation, clustering, Dimensionality reudction

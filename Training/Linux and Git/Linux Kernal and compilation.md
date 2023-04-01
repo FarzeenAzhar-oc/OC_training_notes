@@ -1,0 +1,3 @@
+- `uname -a` To know kernal and other sys info
+- One can install desired linux kernal on linux based setup. 
+-  Modify and update 

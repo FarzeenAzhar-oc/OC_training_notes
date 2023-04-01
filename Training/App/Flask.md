@@ -1,0 +1,6 @@
+- [CORS Issue](CORS%20Issue)- security measures something something, which happens specifically when client and server are in same system
+- Creates API endpoints
+- [Postman](Postman)  experiment with api
+- `Front end <-> APU <-> Back end DB`
+- async and await; then keywords
+	- async await is neater when more than one call is initiated

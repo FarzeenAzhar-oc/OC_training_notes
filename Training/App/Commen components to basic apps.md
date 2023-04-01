@@ -1,0 +1,4 @@
+- User interface
+- Logic and processing
+- Data storage
+- i/o

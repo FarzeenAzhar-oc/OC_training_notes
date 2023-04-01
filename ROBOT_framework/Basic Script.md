@@ -1,0 +1,2 @@
+- Test case section mention the name of test case
+- To execute run` robot -d <result folder> <.robort file>`

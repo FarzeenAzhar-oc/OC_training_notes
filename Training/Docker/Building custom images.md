@@ -1,0 +1,1 @@
+- Dockerfile -> Docker Client -> Docker Server -> Docker Image

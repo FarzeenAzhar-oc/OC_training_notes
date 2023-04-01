@@ -1,0 +1,2 @@
+- K8s manages resource allocation in a cluster, unlike Docker Compose
+- Automatic restarts are done in k8s

@@ -1,0 +1,2 @@
+- logicl partition of cluster resources
+- Helps to identify who used a resource 

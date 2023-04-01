@@ -1,0 +1,7 @@
+- Performance
+- Usability
+- Security
+- Functionality
+- Scalability
+- Reliability
+- Maintainability

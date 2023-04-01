@@ -1,0 +1,4 @@
+- Linux has a concept of **namespace**, which is independent from other containers. This is the concept of containers
+- The hardware resources are not physical split, they are virtualy split using kernal.
+- Dependencies and other things are taken care of by [Image](Image.md)
+- 

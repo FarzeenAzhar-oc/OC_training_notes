@@ -1,0 +1,5 @@
+- Definitions in **Dkube.resaource**
+- Test setup for everythin is Open Browser with Token
+- E2E Create Code:
+	-  `Generate name` will append randomn number to code 
+	- Older dkube had repos tab now we have code

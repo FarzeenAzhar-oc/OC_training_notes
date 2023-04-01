@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "fb00236a081757b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e94546c79037ab2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "513b749279df8808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "648b6194bd5f8e41",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cee92f7b5eb0ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d87bd4bf6c3937d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "78a93206d0d6d30e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0e8aa4a57cbf5c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "25a822ef3c2b310c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c44b6c146516c53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "509ab197b72ae65f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Flask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "129576b2d8d56e79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Flask.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2c1271442b1d07f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50cb3dc75e0bf8d8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Flask.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "513b749279df8808",
+  "lastOpenFiles": [
+    "Index.md",
+    "Flask.md",
+    "Todo demo.md",
+    "react.md",
+    "reduce.md",
+    "Javascript.md",
+    "map.md",
+    "filter.md",
+    "Spread operators.md",
+    "Document Object Model.md"
+  ]
+}

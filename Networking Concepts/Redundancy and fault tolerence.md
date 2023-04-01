@@ -1,0 +1,2 @@
+A- The avialability of multiple paths increases the **redundancy** of a network
+- **Fault tolerance** system is one that can experience failure or multiple failures in it's compenents , but still continue to operate properly.

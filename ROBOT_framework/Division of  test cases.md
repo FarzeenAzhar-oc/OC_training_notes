@@ -1,0 +1,11 @@
+- 2 Types
+	- [API testcases](API%20testcases.md), 
+		- Dkube.py: is the resources files
+	- [UI testcases](UI%20testcases.md):
+		- Dkube.resources
+- For each functionality there is a seperate .ROBOT file
+- If there is a common functionality, it goes into dkube.resources files
+- dkube api `<dkubeURL>/#/ap. `    Whatever can be done through ui can be done via api
+- Another division :
+	- [Template based](Template%20based.md) - run test on multiple combination of input
+	- Normal Test cases

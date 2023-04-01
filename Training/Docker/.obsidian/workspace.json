@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "2e7a35b254df7b9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "65905cc007a402cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506b1137d11c3b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yaml files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a542ee9e861b4a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "a24b565febafe781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1a871b12a6b29b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9d1d5ab5329970c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a868ab449e26fd9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "926fed37e36db8e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f04cb27d8b02393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f4e7e881d4d952",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "yaml files.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fcc8de082784832",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "yaml files.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32b54bc5d1e8cc71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1325ceee09310300",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "yaml files.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "506b1137d11c3b2f",
+  "lastOpenFiles": [
+    "Index.md",
+    "yaml files.md",
+    "Docker Composd.md",
+    "Port binding.md",
+    "Volume Mount.md",
+    "Building custom images.md",
+    "Docker Client and Server.md",
+    "Container and Images.md",
+    "Image.md",
+    "What is container.md"
+  ]
+}

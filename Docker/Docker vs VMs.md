@@ -1,0 +1,8 @@
+- Layers: Hardware -> OS Kernal -> App
+- Both docker and VS are virtualisation tools:
+	- Docker Virtualises Application layer
+	- VM virtualises kernal and App layer=> whole OS
+- Implication:
+	- Docker has lesser size
+	- Dockers have more speed
+	- Kernal campatibility matters for docker images and not for VM

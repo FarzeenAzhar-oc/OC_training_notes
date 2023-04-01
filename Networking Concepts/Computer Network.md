@@ -1,0 +1,5 @@
+- Any group of interconnected computing devices capable of recieving and sending data
+- Type of networks based on their sizes and characteristics:
+	- LAN
+	- WAN
+	- DCN (Data Center Network), a network used in data center where data exchange must have little delays

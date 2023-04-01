@@ -1,0 +1,9 @@
+- Helps to tremendously reduce runtime
+- Replicate everything
+- Replicas are also connected to a service, service also acts like a load balancer
+- Replicas are ccreated by giving a blueprint of the pod and specifying how many replicas you would like to run
+- This blueprint is called **Deployment**
+- **Deployment** is an abstraction on top of pods that makes it easier to replicate and work with them, like the pods are an abstraction on nods
+- Databases can't be replicated using Deployment cause they have states.
+- **Statefulset** helps to replicate and work with databases by helping to synchronise data and such
+- Working with statefulset is hard, so dbs are put outside k8s cluster in practice.

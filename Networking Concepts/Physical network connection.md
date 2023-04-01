@@ -1,0 +1,3 @@
+- copper cables, twisted pair cables uses Ethernet standereds
+- Fiber optics
+- Wireless: radio waves

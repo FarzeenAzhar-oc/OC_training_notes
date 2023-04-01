@@ -1,0 +1,4 @@
+- **Line coding** Process of turning binary data into time-based signals
+- **Bit rate** Number of bits send each second
+- **Bandwidth** Maximum bit rate
+- **Latency** The time between the sending of a data message to receiving of that message (unit: millisec)  (aka ping)

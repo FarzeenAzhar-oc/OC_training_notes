@@ -1,0 +1,4 @@
+- Virtual Private Cloud, provides logically isolated area of the aws cloud where you can launch aws resources in cloud.
+- You have complete control over your virtual network enviroment
+- Easily configurable
+- Can provide multiple layer of security

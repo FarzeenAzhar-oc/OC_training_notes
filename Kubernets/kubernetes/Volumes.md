@@ -1,0 +1,4 @@
+- The data in a pod isn't persistant, when pod dies the data within it dies as well, to prevent this **volumes** utilised. 
+- **Volumes** attaches a physical storage in harddrive to the pod.
+- The storage could either be in local or remote storage
+- Note: k8s doesn't manage data persistance. You have to take care.

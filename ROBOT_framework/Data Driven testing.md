@@ -1,0 +1,3 @@
+- running driffent automated tests with different input data
+- Helps to get better test coverage
+- 

@@ -1,0 +1,5 @@
+- **Trajactory:** Traditional Deployment -> Virtualized Deployment -> Container Deployment
+- **Node** hos which has resources CPU, RAM etc
+- **Cluster** Group of nodes
+- **Pods** A pod represents a single instance of running process in your cluster. Pods contain one or more containers, such as Docker container
+- **Namespace** Isolation groups of resources within a single cluster

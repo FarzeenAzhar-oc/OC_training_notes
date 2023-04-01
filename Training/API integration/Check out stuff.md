@@ -1,0 +1,6 @@
+- Python decorator
+- Pdb (python debugger)
+- Flask: REST api
+- Django and squlite: Databases
+- Swagger schema and auto generated stubs
+- Giltering, sorting, paging using REST api

@@ -1,0 +1,2 @@
+- Maps a function to each elemnt of an array and returns new array
+- `A.map(B)` A is an array and B is function to be done on each element of A

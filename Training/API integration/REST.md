@@ -1,0 +1,5 @@
+- Webpage split into multiple small small API chunks
+- Each API is connected to a resource using URI(Uniform resource Identfier)
+- When the API is triggered , only the resource is sent from server
+- HTTP is unstructured, hence we use JSON , XMl etc format in REST to send and recieve data
+- REST is stateless (at application level), hence any server can manage

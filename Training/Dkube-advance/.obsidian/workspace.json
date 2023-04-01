@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "e9a66b6fd3de7193",
+    "type": "split",
+    "children": [
+      {
+        "id": "66b92c32b7a99434",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c39b4e1af6bd26f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2cb768916a9dcdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "67b1f95d85b065f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e2d3c80af18f427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5eb6c8c69881ce67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a5211debb8cbd68",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bee4ebccbd874ba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4825f9ced2448fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f025d44cc5c4ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "432bf9df41fa8dfd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c8c58c397d9fb90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c394ebdccd82c005",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Questions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5c39b4e1af6bd26f",
+  "lastOpenFiles": [
+    "Index.md",
+    "New Stuff.md"
+  ]
+}

@@ -1,0 +1,2 @@
+- filter lets you filter based on a function
+- `result=A.filter(B);` where B is a condition for each obj in A

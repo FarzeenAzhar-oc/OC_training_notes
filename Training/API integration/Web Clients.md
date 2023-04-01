@@ -1,0 +1,4 @@
+- Curl
+- Postman: used to test rest api
+- Browser
+- Application

@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "aadb4fc4646847fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "5906e5827212e959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29972f57a8e626a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "service and ingress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "83c290dfd4ea3621",
+    "type": "split",
+    "children": [
+      {
+        "id": "458b72ba0de64235",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cbe2524c93ddeb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b2cfdc9486d91c47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8af655decdb9e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c67065b664b1e2c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "35a5627c20385a09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f8108955d4550fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "service and ingress.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2b0de1f4fd6bb5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "service and ingress.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0b38c8ebd2022a0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50d0765c6f6b3e64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "service and ingress.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "29972f57a8e626a3",
+  "lastOpenFiles": [
+    "configMap and Secrets.md",
+    "K8s Components.md",
+    "K8s config file.md",
+    "K8s_index.md",
+    "Untitled.md",
+    "Kubectl.md",
+    "Untitled 1.md",
+    "k8s architecture.md",
+    "worker_node_process.svg",
+    "master_node_process.svg"
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "c37164e70685eaf9",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd9c1bc3e858ce4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f91f0211553e54",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0f227bf6ba786af",
+    "type": "split",
+    "children": [
+      {
+        "id": "30b97f7c651e4975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e30fb426d395877",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a32230cec0b23833",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8500b777a1388df8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 469.5
+  },
+  "right": {
+    "id": "6d3b3b5e079a21da",
+    "type": "split",
+    "children": [
+      {
+        "id": "747a616c264e18de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a068c37d5dad1560",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae211fd9a3db4e95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49bdaf0fec92ab82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "373486e09079fc97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f3f91f0211553e54",
+  "lastOpenFiles": [
+    "k8s commands.md",
+    "k8s practical.md",
+    "K8s_cc_Index.md",
+    "Kuberenetes  Configuration.md",
+    "Minikube and kubectl.md",
+    "Kuberenetes Components.md",
+    "Deployment and Statefulset.md",
+    "Volumes.md",
+    "Volumes.svg",
+    "Service.svg"
+  ]
+}

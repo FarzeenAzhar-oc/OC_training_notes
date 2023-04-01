@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "4d3d1a03c0323c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "46a902e280e2e42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cabc08c40c893fb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dockerfile.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a470cf3d140ab1ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "20df3229997abf7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a3ca05f09aba326",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "534e57e4c80e7c16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "deb5e64bd13e4758",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ff91eef99e253b86",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddfa27b2b2d59175",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a5287674b7cf67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dockerfile.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9750da1503cceeaf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dockerfile.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0adad602d926e91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5312d1b5abd1cf52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dockerfile.md"
+              }
+            }
+          },
+          {
+            "id": "b632f849d1940f34",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fad908faac6e65d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cabc08c40c893fb7",
+  "lastOpenFiles": [
+    "Docker_index.md",
+    "jenkins.md",
+    "Untitled.md",
+    "Kubernets_index.md",
+    "Docker Volume.md",
+    "Docker Compose.md",
+    "Docker installation.md",
+    "Docker Network.md",
+    "Docker Registry.md",
+    "docker run vs dcker start.md"
+  ]
+}

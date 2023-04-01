@@ -1,0 +1,7 @@
+- Common In all testcases:
+	- `Test Timeout`
+	- `[Teardown]`
+	- `[Tags]` helpful when you want to run perticular types of test cases
+- `-v` in robot overrides everything
+-  `- exclude <tag>`  will exclude every test with tag
+- `headless:true` makes things run in backend

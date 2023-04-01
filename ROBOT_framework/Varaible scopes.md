@@ -1,0 +1,4 @@
+- Global scope: Avialable everywhere
+- Test suite scope: Within test suite
+- Test Case scope: For perticular tet case
+- Local scope: Local level (in keyword)

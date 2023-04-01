@@ -1,0 +1,9 @@
+- **Def** Global network of computing devices communicating with each other in "some way"
+- It is an **open network** any computing device can join as long as they follow the rule of the game, i.e protocole
+- Requirements of internet:
+	- Wires and wireless
+	- IP
+	- TCP/UD
+	- TLS
+	- HTTP and DNS
+- Internet is the worlds larget [Computer Network](Computer%20Network.md)

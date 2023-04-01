@@ -1,0 +1,1 @@
+- Enviroments of devolepment, training and deoploy can be different

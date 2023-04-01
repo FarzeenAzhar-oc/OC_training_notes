@@ -1,0 +1,8 @@
+- IP describes how to split messages into packets and send those packets to destination via hops
+- But IP doesn't handle all consequences of packets, like:
+	- Which packet belongs to which message when multiple messages are send
+	- Out of order packets
+	- Corruption of packets
+	- Loss of packets
+	- Duplication of packets due to accidental retransmission
+- Higher level protocoles on top of IP helps, like [TCP](TCP.md) and [UDP](UDP.md)

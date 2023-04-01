@@ -1,0 +1,2 @@
+- Takes an array, does computation on it and resturn a single element
+- `A.reduce(B, init)` where A is a list , B is a function `B(i,a)` and returns a single element, init is inital value for i which is returned

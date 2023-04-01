@@ -1,0 +1,4 @@
+- Model-vview-control is software architectural pattern that seperates representation of info from user interaction:
+	- **Model** manage data of app. Represents state of app and rules that governs the data
+	- **View** presents data to user. user interface
+	- **Controller** It recieves input from user and changes Model and view as needed

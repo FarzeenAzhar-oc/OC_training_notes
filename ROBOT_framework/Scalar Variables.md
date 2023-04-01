@@ -1,0 +1,5 @@
+- Scalar variable helps to not hard code test inputs
+- syntax `${var nam} var value`
+- Reccomended to use lower case for local variables and upper case for global variables
+- You can concatinate two or more results
+- To get results from another resource file,  just mention it in reources

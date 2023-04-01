@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "d6f3625d5aba62bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "97d54f5195506f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6734055977fa06ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Install Dkube.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bdb04a49719fff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9e7ebb41a5efb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "028e68dc3cdfddef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d48190af43e1140d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4131c50c91650b84",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9665e4c7faa948e",
+    "type": "split",
+    "children": [
+      {
+        "id": "baca89733ca4e63d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01be4b738ae006bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Install Dkube.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd6b6a2567d6d2d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Install Dkube.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cd7cfccd63f9f63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ac366aea7ebbd0cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Install Dkube.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6734055977fa06ac",
+  "lastOpenFiles": [
+    "Dkube automation.md",
+    "Misc_index.md",
+    "Install Dkube.md"
+  ]
+}

@@ -1,0 +1,3 @@
+- Public cloud platform 
+- Distributed across region, each resource is stored in cloud.
+- Provide IaaS,PaaS and Saas

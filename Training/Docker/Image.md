@@ -1,0 +1,2 @@
+- Has a file system snapshot
+- What command to run or where to start given by **startup command**

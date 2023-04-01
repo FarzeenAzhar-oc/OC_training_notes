@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "67875d5aab2c6f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "3de604e85e91264d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98750e633b0e2243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker Compose vs K8s.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac55f6476a3e1f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "51336e6af49b77d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ae35b22a5b2396e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "827919ddfde9342c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db8cd5b49a82a6cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43be1ecf0cf70cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "de0bf56bd400de20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ed0a7b90656a84b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker Compose vs K8s.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "95ee1c5f28a2c15b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker Compose vs K8s.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0372f82821b04b4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e9bc47affca75af9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker Compose vs K8s.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "98750e633b0e2243",
+  "lastOpenFiles": [
+    "New stuff.md",
+    "Index.md",
+    "Docker Compose vs K8s.md",
+    "Intro.md",
+    "Namespace.md"
+  ]
+}

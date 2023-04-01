@@ -1,0 +1,15 @@
+- Take the case when while in use a **pod** dies. This causes downtime.
+- Hence instead of relying on one application the pods are replicatedas a backup against crash
+- They are connected to the same service. Hence service has 2 functionalitie:
+	- Providing permenant IP 
+	- load balancer, by catching a request and sending it to whicher pod is less busy.
+- Replicas are made using **deployments**
+- **Deployment** are :
+	- Blue print for an pods
+	- Deployments are created instead of pods
+	- Deployment are abstractions on top of pods which makes it more convineant to interact with pods , replicate them etc
+	- In practice, one mostly works with deployments rather than pods.
+## Stateful set
+- Used to replicate containers that have some state, like databases.
+- **StatefulSet** state helps all replicas of db to share the same datastorage, manage which pods are reading an writing from a storage in order to avoid data inconsistancies.
+- Deploying db apps using stateFul set is somewhat tedious, hence it's commen practice to host Db outside k8s cluster.

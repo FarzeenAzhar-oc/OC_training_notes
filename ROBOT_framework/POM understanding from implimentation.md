@@ -1,0 +1,3 @@
+- Do a bit of analysis for what you are gonna test, find components
+- Eg, ebay:
+	- The search bar remains same every where, hence it can be considered as a logical entity of seperation

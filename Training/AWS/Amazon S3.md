@@ -1,0 +1,2 @@
+- provides an IT team with secure , durable , highly scalable object storage
+- Store and retrive data

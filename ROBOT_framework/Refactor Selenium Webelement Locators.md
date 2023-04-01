@@ -1,0 +1,4 @@
+- Externalise locators to external variables
+- Externalise to a comman file, python file
+	- To refrence python in variables `Variables  <python path>`
+- Make sure that the variables don't have spaces

@@ -1,0 +1,11 @@
+- **Node**  virtual or physical machine
+- **Pod** Smallest unit in kubernetes
+	- It's an abstraction over a container
+	- Abstraction over a container
+	- Usually 1 application per Pod, sometimes more
+- Each pod gets its own IP adress to communicate with each other
+- Pods are ephemeral :
+	- i.e They can die very easly
+	- New one get created with new i.p. , this causes issues
+	- Hence we have the concept of [Service and Ingress](Service%20and%20Ingress.md) ,
+![nodes and pods](nodes%20and%20pods.svg)
